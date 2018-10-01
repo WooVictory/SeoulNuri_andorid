@@ -1,3 +1,4 @@
+
 # 2018년 서울시 앱 공모전 출품작 SeoulNuri
 
 2018년도 서울시 앱 공모전 출품작 SeoulNuri 입니다. 아래와 같은 구성원으로 팀을 이뤘습니다. 
@@ -54,6 +55,7 @@
 7. **Image loader**
 
 * Glide : implementation 'com.github.bumptech.glide:glide:4.7.1'
+
 
 
 
